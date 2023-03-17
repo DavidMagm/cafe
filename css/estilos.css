@@ -1,6 +1,12 @@
 body {
-    background-color: brown;
+    background-image: none;
 }
+
 h1, h2, p {
     text-align: center;
+}
+
+div {
+    background-color: burlywood;
+    margin: auto;
 }
