@@ -7,20 +7,21 @@ h1, h2, p {
 }
 
 .menu {
+    width: 80%;
     background-color: burlywood;
     margin: auto;
 }
 
-.item {
+.item p {
     display: inline-block;
 }
 
 .flavor {
     text-align: left;
-    width: 50%;
+    width: 75%;
 }
 
 .price {
     text-align: right;
-    width: 50%;
+    width: 25%;
 }
