@@ -8,9 +8,10 @@ h1, h2, p {
 
 .menu {
     width: 80%;
+    max-width: 500px;
     background-color: burlywood;
     margin: auto;
-    padding: 0 20px;
+    padding: 20px;
 }
 
 .item p {
