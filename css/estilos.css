@@ -1,6 +1,7 @@
 body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
+    padding: 20px;
 }
 
 h1, h2, p {
@@ -17,6 +18,9 @@ h1, h2, p {
 
 .item p {
     display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
 }
 
 .flavor, .dessert {
