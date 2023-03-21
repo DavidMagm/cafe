@@ -82,3 +82,10 @@ a:active {
 .address {
     margin-bottom: 15px;
 }
+
+img {
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-top: -25px;
+}
